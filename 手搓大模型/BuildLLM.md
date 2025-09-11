@@ -53,4 +53,6 @@ torch.zeros(query.shape)
     - transpose的维度数量比原张量少怎么理解？
 - einsum（torch和eniops中都有）和rearrange：问了deepseek举了一些例子，可能有点懂了，但还需要看具体的case，主要是没搞明白有什么用，以及有些操作不明白物理意义（https://einops.rocks/1-einops-basics/）
 - N(μ=0,σ2=1) 表示均值为 0、方差为 1 的正态分布（Normal Distribution），也被称为 “标准正态分布（Standard Normal Distribution）”。
+- y=x（行）W.T和y=Wx（列）是数学表达上的差异，在实现中永远使用前者（在本次作业中，我们将使用列向量进行数学表示——仅用于数学表示）
+- 根据正态分布的3σ法则：约99.7%的数值会落在[μ-3σ, μ+3σ]范围内；超出这个范围的数值（如|x|>3σ），出现概率仅约 0.3%，属于极端值。
 ### 其它
