@@ -1,0 +1,10 @@
+- 最核心：https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/be-clear-and-direct
+- 角色：https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/system-prompts
+- 例子：https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/few-shot-examples?hl=zh-cn
+- https://www.anthropic.com/engineering/writing-tools-for-agents
+- https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+## 犇哥
+- 指令流：https://www.notion.so/kanyun-infra-innovation/20250922-2756f7bc766680d397dee8373f5ae860
+- https://www.notion.so/kanyun-infra-innovation/ing-or-completed-28e6f7bc76668089b96bfb63414a24e3
+## 善琳
+- 双向交互：https://www.notion.so/kanyun-infra-innovation/27e6f7bc7666801eb868d3d4537c7276
